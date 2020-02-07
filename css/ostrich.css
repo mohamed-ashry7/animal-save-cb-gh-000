@@ -1,5 +1,6 @@
 html {
   background: url(../images/croc.jpg) no-repeat top left;
+  width: 100%;
 }
 
 #ostrich {
@@ -9,4 +10,6 @@ html {
 }
 
 /* Write your solution here */
+
+
 
