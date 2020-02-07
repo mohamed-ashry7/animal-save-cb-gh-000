@@ -18,5 +18,17 @@ html {
   right: 0;
 }
 
+@media only screen and (max-width:950px) {
+  #dolphin{
+    top: 350px;
+    transform: rotate(0.5turn);
+  }
+}
+@@media only screen and (max-width:700px) {
+  #dolphin{
+    top: 400px;
+    transform: 0; 
+  }
+}
 /* Write your solution here */
 
